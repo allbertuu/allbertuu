@@ -5,6 +5,7 @@
 - 😄 Pronouns: ele/dele
 - 🧩 Modus operandi: amo resolver problemas, me pego sempre buscando desafios para resolver. 
 - ❤ Gostos: Amo e consumo muito cultura geek, nerd e japonesa.
+- <a href="https://github.com/allbertuu"><img alt="Alberto-Anilist" height="20" width="20" src="https://img.icons8.com/?id=U68ZblEL0g5C&size=2x&color=000000"></a> Meu <a href="https://anilist.co/user/allbertuu/">AniList</a>
   
 <div align="left">
   <a href="https://github.com/allbertuu">
@@ -29,7 +30,9 @@
  </div>
  
   <div>
-  <h3>Utilizo estes softwares e sistema(s) operacional(is) no momento:</h3>
+  <h3>Utilizo estes softwares e sistema(s) operacional(is):</h3>
   <img alt="logo Win10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/VISUAL%20CODE-%230077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%230077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   </div>
+  <h5>Versões das linguagens</h5>
+  <img src="https://img.shields.io/badge/PYTHON-Version%203.9-blue?style=for-the-badge&labelColor=yellow&logo=Python&logoColor=white">
