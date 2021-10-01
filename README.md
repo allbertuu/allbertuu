@@ -8,10 +8,10 @@
 - ❤ Gostos: Amo e consumo muito cultura geek, nerd e japonesa.
 - <a href="https://github.com/allbertuu"><img alt="Alberto-Anilist" height="20" width="20" src="https://img.icons8.com/?id=U68ZblEL0g5C&size=2x&color=000000"></a> Meu <a href="https://anilist.co/user/allbertuu/">AniList</a>
   
-<div>
+<div align="center">
   <a href="https://github.com/allbertuu">
-  <img height="160" align="auto" src="https://github-readme-stats.vercel.app/api?username=allbertuu&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="115" align="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allbertuu&layout=compact&langs_count=7&theme=nord"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=allbertuu&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allbertuu&layout=compact&langs_count=7&theme=nord"/>
 </div>
   
   <div style="display: inline_block"><br>
