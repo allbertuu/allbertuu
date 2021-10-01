@@ -1,13 +1,14 @@
-<h2>Olá! Eu me chamo Alberto Albuquerque <img align="left" alt="Alberto-pic" height="38" style="border-radius:50px;" src="https://media.discordapp.net/attachments/761039894143172618/892934153618747432/Meu_personagem_Masc_Picrew_2.png?width=676&height=676"></a></h2>
+<h2>Olá! Eu me chamo Alberto Albuquerque <img align="left" alt="pic" height="38" style="border-radius:50px;" src="https://c.tenor.com/JUPt0-Fm0AIAAAAi/baka-neko.gif?width=676&height=676"></h2> 
+<img align="right" alt="Alberto-pic" height="170" style="border-radius:50px;" src="https://media.discordapp.net/attachments/761039894143172618/892934153618747432/Meu_personagem_Masc_Picrew_2.png?width=676&height=676">
 
 - 🎯 Objetivo: me tornar um ***desenvolvedor Full-stack***
-- 📚 Atualmente estou aprendendo <em><strong>Python</strong></em>
+- 📚 Atualmente estou aprendendo ***Python***
 - 😄 Pronouns: ele/dele
 - 🧩 Modus operandi: amo resolver problemas, me pego sempre buscando desafios para resolver. 
 - ❤ Gostos: Amo e consumo muito cultura geek, nerd e japonesa.
 - <a href="https://github.com/allbertuu"><img alt="Alberto-Anilist" height="20" width="20" src="https://img.icons8.com/?id=U68ZblEL0g5C&size=2x&color=000000"></a> Meu <a href="https://anilist.co/user/allbertuu/">AniList</a>
   
-<div align="left">
+<div align="center">
   <a href="https://github.com/allbertuu">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=allbertuu&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allbertuu&layout=compact&langs_count=7&theme=nord"/>
