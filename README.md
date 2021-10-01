@@ -21,7 +21,6 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Alberto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="-pic" height="150" style="border-radius:50px;" src="https://?width=676&height=676">
   </div>
 <div>
   
