@@ -35,7 +35,8 @@
   <a href="https://open.spotify.com/user/f59bk8mb2ucak8liirg2oqx0p?si=EVsOUON7S-SzOVMnFhvtpA&utm_source=whatsapp&dl_branch=1"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
    
   ![Snake animation](https://github.com/allbertuu/allbertuu/blob/output/github-contribution-grid-snake.svg)
- </div>
+ 
+  </div>
   
   <div>
   <h3>Utilizo estes softwares e sistema(s) operacional(is):</h3>
