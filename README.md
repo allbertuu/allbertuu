@@ -7,7 +7,11 @@
 - 🧩 Modus operandi: amo resolver problemas, me pego sempre buscando desafios para resolver. 
 - ❤ Gostos: Amo e consumo muito cultura geek, nerd e japonesa.
 - <a href="https://github.com/allbertuu"><img alt="Alberto-Anilist" height="20" width="20" src="https://img.icons8.com/?id=U68ZblEL0g5C&size=2x&color=000000"></a> Meu <a href="https://anilist.co/user/allbertuu/">AniList</a>
-
+<div>
+  
+  ***
+ 
+</div>
   
 <div align="center">
   <a href="https://github.com/allbertuu">
