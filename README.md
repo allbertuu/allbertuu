@@ -33,8 +33,10 @@
   <a href ="mailto:albertovinicius3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/albertov-albuquerque/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://open.spotify.com/user/f59bk8mb2ucak8liirg2oqx0p?si=EVsOUON7S-SzOVMnFhvtpA&utm_source=whatsapp&dl_branch=1"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+   
+  ![Snake animation](https://github.com/allbertuu/allbertuu/blob/output/github-contribution-grid-snake.svg)
  </div>
- 
+  
   <div>
   <h3>Utilizo estes softwares e sistema(s) operacional(is):</h3>
   <img alt="logo Win10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
