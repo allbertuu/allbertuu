@@ -1,5 +1,5 @@
 <h2>Olá! Eu me chamo Alberto Albuquerque <img align="left" alt="pic" height="38" style="border-radius:50px;" src="https://c.tenor.com/JUPt0-Fm0AIAAAAi/baka-neko.gif?width=676&height=676"></h2> 
-<img align="right" alt="Alberto-pic" height="180" style="border-radius:20px; margin-top: 20px;" src="https://media.discordapp.net/attachments/761039894143172618/892934153618747432/Meu_personagem_Masc_Picrew_2.png?width=676&height=676">
+<img align="right" alt="Alberto-pic" height="160px" width="170px" style="border-radius: 50px;" src="https://media.discordapp.net/attachments/761039894143172618/892934153618747432/Meu_personagem_Masc_Picrew_2.png?">
 
 - 🎯 Objetivo: me tornar ***dev. Full-stack***
 - 📚 Atualmente estou aprendendo ***Python*** e ***JavaScript***
