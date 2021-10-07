@@ -22,6 +22,8 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Alberto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Alberto-JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg">
+  <img align="center" alt="Alberto-HTML" height="30" width="40" src="https://www.svgrepo.com/show/349402/html5.svg">
+  <img align="center" alt="Alberto-CSS" height="30" width="40" src="https://www.svgrepo.com/show/349330/css3.svg">
     
   </div>
 <div>
