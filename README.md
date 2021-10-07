@@ -2,7 +2,7 @@
 <img align="right" alt="Alberto-pic" height="160px" width="170px" style="border-radius: 50px;" src="https://media.discordapp.net/attachments/761039894143172618/892934153618747432/Meu_personagem_Masc_Picrew_2.png?">
 
 - 🎯 Objetivo: me tornar ***dev. Full-stack***
-- 📚 Atualmente estou aprendendo ***Python*** e ***JavaScript***
+- 📚 Atualmente estou aprendendo ***Python*** e ***CSS***
 - 😄 Pronouns: ele/dele
 - 🧩 Modus operandi: amo resolver problemas, me pego sempre buscando desafios para resolver. 
 - ❤ Gostos: Amo e consumo muito a cultura geek, nerd e também a japonesa.
