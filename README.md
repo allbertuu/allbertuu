@@ -6,11 +6,8 @@
 - 🧩 Modus operandi: amo resolver problemas, me pego sempre buscando desafios para resolver. 
 - ❤ Gostos: Amo e consumo muito a cultura geek, nerd e também a japonesa.
 - <a href="https://github.com/allbertuu"><img alt="Alberto-Anilist" height="20" width="20" src="https://img.icons8.com/?id=U68ZblEL0g5C&size=2x&color=000000"></a> Meu <a href="https://anilist.co/user/allbertuu/">AniList</a>
-<div>
-  
-  ***
- 
-</div>
+
+<br>
   
 <div align="center">
   <a href="https://github.com/allbertuu">
@@ -19,12 +16,12 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Alberto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <h3>Domínios (atualmente)</h3>
   <img align="center" alt="Alberto-JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg">
   <img align="center" alt="Alberto-HTML" height="30" width="40" src="https://www.svgrepo.com/show/349402/html5.svg">
-  <img align="center" alt="Alberto-CSS" height="30" width="40" src="https://www.svgrepo.com/show/349330/css3.svg">
-    
+  <img align="center" alt="Alberto-CSS" height="30" width="40" src="https://www.svgrepo.com/show/349330/css3.svg">  
   </div>
+  
 <div>
   
   ##
