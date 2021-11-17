@@ -38,7 +38,7 @@
   </div>
   
   <div>
-  <h3>Utilizo estes softwares e sistema(s) operacional(is):</h3>
+  <h3>Utilizo estas IDEs e sistema(s) operacional(is):</h3>
   <img alt="logo Win10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%230077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter&logoColor=white">
