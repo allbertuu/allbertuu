@@ -15,6 +15,9 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allbertuu&layout=compact&langs_count=7&theme=nord"/>
 </div>
   
+  <h3>❗ Disclaimer</h3>
+  A minha experiência em uma linguagem neste painel <strong>não</strong> reflete a real situação, visto que só se aplica à <mark>projetos públicos</mark>. <br>O meu nível de experiência real sempre irá variar para cima, nunca para baixo.
+  
   <div style="display: inline_block"><br>
   <h3>Domínios (atualmente)</h3>
   <img align="center" alt="Alberto-JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg">
