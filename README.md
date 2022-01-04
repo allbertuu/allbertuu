@@ -5,7 +5,7 @@
 - 😄 Pronouns: ele/dele
 - 🧩 Modus operandi: amo resolver problemas, me pego sempre buscando desafios para resolver. 
 - ❤ Gostos: Amo e consumo muito a cultura geek, nerd e também a japonesa.
-- <a href="https://github.com/allbertuu"><img alt="Alberto-Anilist" height="20" width="20" src="https://img.icons8.com/?id=U68ZblEL0g5C&size=2x&color=000000"></a> Meu <a href="https://anilist.co/user/allbertuu/">AniList</a>![68747470733a2f2f676574626f6f7473747261702e636f6d2e62722f646f63732f342e312f6173736574732f696d672f626f6f7473747261702d737461636b2e706e67](https://user-images.githubusercontent.com/89992304/148075813-06ecd117-a56b-425c-a093-332f15111505.png)
+- <a href="https://github.com/allbertuu"><img alt="Alberto-Anilist" height="20" width="20" src="https://img.icons8.com/?id=U68ZblEL0g5C&size=2x&color=000000"></a> Meu <a href="https://anilist.co/user/allbertuu/">AniList</a>
 
 
 <br>
