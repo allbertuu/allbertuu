@@ -16,7 +16,7 @@
 </div>
   
   <h3>❗ Disclaimer</h3>
-  A minha experiência em uma linguagem neste painel <strong>não</strong> reflete a real situação, visto que só se aplica à <mark>projetos públicos</mark>. <br>O meu nível de experiência real sempre irá variar para cima, nunca para baixo.
+  A minha experiência em uma linguagem neste painel <strong>não</strong> reflete o meu absoluto aprendizado, visto que só se aplica à <mark>projetos públicos</mark>. <br>O meu nível de experiência real sempre irá variar para cima, nunca para baixo.
   
   <div style="display: inline_block"><br>
   <h3>Domínios (atualmente)</h3>
