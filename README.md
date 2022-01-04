@@ -1,7 +1,7 @@
 <h2>Olá! Eu me chamo Alberto. Prazer em conhecê-lo(a)! <img align="left" alt="pic" height="38" style="border-radius:50px;" src="https://c.tenor.com/JUPt0-Fm0AIAAAAi/baka-neko.gif?width=676&height=676"></h2>
 
 - 🎯 Objetivo: me tornar ***dev. Full-stack***
-- 📚 Atualmente estou aprendendo ***JavaScript Avançado***, ***HTML/CSS Avançado*** e ***SQL***
+- 📚 Atualmente estou aprendendo: ***JavaScript***, ***PHP 7*** e ***Bootstrap 4***
 - 😄 Pronouns: ele/dele
 - 🧩 Modus operandi: amo resolver problemas, me pego sempre buscando desafios para resolver. 
 - ❤ Gostos: Amo e consumo muito a cultura geek, nerd e também a japonesa.
