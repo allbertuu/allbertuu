@@ -5,7 +5,8 @@
 - 😄 Pronouns: ele/dele
 - 🧩 Modus operandi: amo resolver problemas, me pego sempre buscando desafios para resolver. 
 - ❤ Gostos: Amo e consumo muito a cultura geek, nerd e também a japonesa.
-- <a href="https://github.com/allbertuu"><img alt="Alberto-Anilist" height="20" width="20" src="https://img.icons8.com/?id=U68ZblEL0g5C&size=2x&color=000000"></a> Meu <a href="https://anilist.co/user/allbertuu/">AniList</a>
+- <a href="https://github.com/allbertuu"><img alt="Alberto-Anilist" height="20" width="20" src="https://img.icons8.com/?id=U68ZblEL0g5C&size=2x&color=000000"></a> Meu <a href="https://anilist.co/user/allbertuu/">AniList</a>![68747470733a2f2f676574626f6f7473747261702e636f6d2e62722f646f63732f342e312f6173736574732f696d672f626f6f7473747261702d737461636b2e706e67](https://user-images.githubusercontent.com/89992304/148075813-06ecd117-a56b-425c-a093-332f15111505.png)
+
 
 <br>
   
@@ -19,10 +20,10 @@
   A minha experiência em uma linguagem neste painel <strong>não</strong> reflete o meu absoluto aprendizado, visto que só se aplica à <mark>projetos públicos</mark>. <br>O meu nível de experiência real sempre irá variar para cima, nunca para baixo.
   
   <div style="display: inline_block"><br>
-  <h3>Domínios (atualmente)</h3>
-  <img align="center" alt="Alberto-JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg">
   <img align="center" alt="Alberto-HTML" height="30" width="40" src="https://www.svgrepo.com/show/349402/html5.svg">
-  <img align="center" alt="Alberto-CSS" height="30" width="40" src="https://www.svgrepo.com/show/349330/css3.svg">  
+  <img align="center" alt="Alberto-CSS" height="30" width="40" src="https://www.svgrepo.com/show/349330/css3.svg">
+  <img align="center" alt="Alberto-JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg">
+  <img align="center" alt="Alberto-Bootstrap" height="30" width="40" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png">
   </div>
   
 <div>
