@@ -32,6 +32,7 @@
   ##
   
 </div>
+
  <div>
   <a href="https://instagram.com/albert.vny" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href ="mailto:albertovinicius3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -48,3 +49,14 @@
   <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%230077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter&logoColor=white">
   </div>
+<div>
+
+  ##
+  
+</div>
+Chegou ate aqui?  
+Toma um doce 🍬  
+<h3>Informações (quase) irrelevantes 🌟</h3>  
+1. Meus animes favoritos são: Fullmetal Alchemist e Hunter X Hunter.
+2. Sou _viciado_ em praticar exercício pela manhã cedinho (sério, bom demais)
+3. Planejo viajar o mundo 🌎
