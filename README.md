@@ -1,10 +1,9 @@
 <h2>Olá! Eu me chamo Alberto. Prazer em conhecê-lo(a)! <img align="left" alt="pic" height="38" style="border-radius:50px;" src="https://c.tenor.com/JUPt0-Fm0AIAAAAi/baka-neko.gif?width=676&height=676"></h2>
 
 - 🎯 Objetivo: me tornar ***dev. Full-stack***
-- 📚 Atualmente estou aprendendo: ***JavaScript***, ***PHP 7*** e ***Bootstrap 4***
-- 😄 Pronouns: ele/dele
-- 🧩 Modus operandi: amo resolver problemas, me pego sempre buscando desafios para resolver. 
-- ❤ Gostos: Amo e consumo muito a cultura geek, nerd e também a japonesa.
+- 📚 Atualmente estou aprendendo: ***JavaScript*** nível avançado, ***PHP 7*** e ***Bootstrap 4***
+- 😄 Pronomes: ele/dele
+- 🧩 Modus operandi: amo resolver problemas, me pego sempre buscando desafios novos ou antigos para resolver. 
 - <a href="https://github.com/allbertuu"><img alt="Alberto-Anilist" height="20" width="20" src="https://img.icons8.com/?id=U68ZblEL0g5C&size=2x&color=000000"></a> Meu <a href="https://anilist.co/user/allbertuu/">AniList</a>
 
 
@@ -54,9 +53,9 @@
   ##
   
 </div>
-Chegou ate aqui?  
+Chegou até aqui?  
 Toma um doce 🍬  
 <h3>Informações (quase) irrelevantes 🌟</h3>  
-1. Meus animes favoritos são: Fullmetal Alchemist e Hunter X Hunter.
-2. Sou _viciado_ em praticar exercício pela manhã cedinho (sério, bom demais)
-3. Planejo viajar o mundo 🌎
+1. Meus animes favoritos são: Fullmetal Alchemist e Hunter X Hunter.  
+2. Sou _viciado_ em praticar exercício pela manhã cedinho (sério, bom demais)  
+3. Planejo, e vou, viajar o mundo 🌎  
