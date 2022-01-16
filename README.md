@@ -3,7 +3,7 @@
 - 🎯 Objetivo: me tornar ***dev. Full-stack***
 - 📚 Atualmente estou aprendendo: ***JavaScript*** nível avançado, ***PHP 7*** e ***Bootstrap 4***
 - 😄 Pronomes: ele/dele
-- 🧩 Modus operandi: amo resolver problemas, me pego sempre buscando desafios novos ou antigos para resolver. 
+- 🧩 Modus operandi: viciado em resolver problemas, me pego sempre buscando desafios novos ou antigos para resolver. 
 - <a href="https://github.com/allbertuu"><img alt="Alberto-Anilist" height="20" width="20" src="https://img.icons8.com/?id=U68ZblEL0g5C&size=2x&color=000000"></a> Meu <a href="https://anilist.co/user/allbertuu/">AniList</a>
 
 
@@ -53,9 +53,11 @@
   ##
   
 </div>
+  
 Chegou até aqui?  
 Toma um doce 🍬  
-<h3>Informações (quase) irrelevantes 🌟</h3>  
-1. Meus animes favoritos são: Fullmetal Alchemist e Hunter X Hunter.  
-2. Sou _viciado_ em praticar exercício pela manhã cedinho (sério, bom demais)  
-3. Planejo, e vou, viajar o mundo 🌎  
+  
+<h3>Informações (quase) irrelevantes 🌟</h3>
+  1. Meus animes favoritos são: Fullmetal Alchemist e Hunter X Hunter.<br>
+  2. Sou viciado em praticar exercício pela manhã cedinho (sério, bom demais)<br>
+  3. Planejo, e vou, viajar o mundo 🌎<br>
