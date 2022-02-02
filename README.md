@@ -1,7 +1,7 @@
 <h2>Olá! Eu me chamo Alberto. Prazer em conhecê-lo(a)! <img align="left" alt="pic" height="38" style="border-radius:50px;" src="https://c.tenor.com/JUPt0-Fm0AIAAAAi/baka-neko.gif?width=676&height=676"></h2>
 
 - 🎯 Objetivo: me tornar ***dev. Full-stack***
-- 📚 Atualmente estou aprendendo: ***JavaScript*** nível avançado, ***PHP 7*** e ***Bootstrap 4***
+- 📚 Atualmente estou aprendendo: ***JavaScript*** e ***PHP 7***.
 - 😄 Pronomes: ele/dele
 - 🧩 Modus operandi: viciado em resolver problemas, me pego sempre buscando desafios novos ou antigos para resolver. 
 - <a href="https://github.com/allbertuu"><img alt="Alberto-Anilist" height="20" width="20" src="https://img.icons8.com/?id=U68ZblEL0g5C&size=2x&color=000000"></a> Meu <a href="https://anilist.co/user/allbertuu/">AniList</a>
