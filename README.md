@@ -3,7 +3,7 @@
 [![banner](./banner.png)](https://github.com/allbertuu)
 
 ## 🔖 Sobre mim 
-Minha história entrando na programação é rápida. E se resume em: ***paixão***. Comecei meus primeiros códigos em C# aos 16 anos, tendo minhas primeiras aulas de programação na vida no colegial. Me encantei.  
+Minha história entrando na programação é rápida, eu diria. E se resume em: ***paixão***. Comecei meus primeiros códigos em C# aos 16 anos, tendo minhas primeiras aulas de programação na vida no colegial. Me encantei.  
 Hoje, faço diversas coisas por curiosidade e com paixão. Atualmente, desenvolvo majoritariamente voltado à tecnologias de front-end.  
 _Outros..._
 - 🎯 Objetivo: me tornar ***dev. Full-stack***
@@ -19,6 +19,7 @@ _Outros..._
   <img align="center" alt="Alberto-JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg">
   <img align="center" alt="Alberto-Bootstrap" height="30" width="40" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png">
   <img align="center" alt="Alberto-PHP" height="20" width="40" src="https://user-images.githubusercontent.com/89992304/148076553-eb9cae9b-61de-452e-8249-1a0443f5d8b4.png">
+  <img align="center" alt="Alberto-React.js" height="30" width="40" src="https://www.svgrepo.com/show/354259/react.svg">
 </div>
 <br>
 
