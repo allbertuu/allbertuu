@@ -7,7 +7,6 @@ Minha história entrando na programação é rápida, eu diria. E se resume em: 
 Hoje, faço diversas coisas por curiosidade e com paixão. Atualmente, desenvolvo majoritariamente voltado à tecnologias de front-end.  
 _Outros..._
 - 🎯 Objetivo: me tornar ***dev. Full-stack***
-- 📚 Atualmente estou aprendendo: ***OO*** e ***PHP 7***
 - 😄 Pronomes: ele/dele
 - 🧩 Modus operandi: viciado em resolver problemas, me pego sempre buscando desafios novos ou antigos para resolver. 
 - Meu <a href="https://anilist.co/user/allbertuu/">AniList</a>
