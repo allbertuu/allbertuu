@@ -26,8 +26,8 @@ _Outros..._
 ## 🔄 GitHub stats
 <div align="center">
   <a href="https://github.com/allbertuu">
-   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=allbertuu&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allbertuu&layout=compact&langs_count=7&theme=nord"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=allbertuu&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/><br>
+   <img style="height: 20rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allbertuu&layout=compact=true&langs_count=7&theme=nord"/>
    
    ![Snake animation](https://github.com/allbertuu/allbertuu/blob/output/github-contribution-grid-snake.svg)
   
