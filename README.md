@@ -11,7 +11,7 @@ _Outros..._
 - 🧩 Modus operandi: viciado em resolver problemas, me pego sempre buscando desafios novos ou antigos para resolver. 
 - Meu <a href="https://anilist.co/user/allbertuu/">AniList</a>
 
-## 🚀 Minhas skills 
+## 🚀 Minhas principais skills 
 <div>
   <img align="center" alt="Alberto-HTML" height="30" width="40" src="https://www.svgrepo.com/show/349402/html5.svg">
   <img align="center" alt="Alberto-CSS" height="30" width="40" src="https://www.svgrepo.com/show/349330/css3.svg">
