@@ -16,8 +16,6 @@ _Outros..._
   <img align="center" alt="Alberto-HTML" height="30" width="40" src="https://www.svgrepo.com/show/349402/html5.svg">
   <img align="center" alt="Alberto-CSS" height="30" width="40" src="https://www.svgrepo.com/show/349330/css3.svg">
   <img align="center" alt="Alberto-JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg">
-  <img align="center" alt="Alberto-Bootstrap" height="30" width="40" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png">
-  <img align="center" alt="Alberto-PHP" height="20" width="40" src="https://user-images.githubusercontent.com/89992304/148076553-eb9cae9b-61de-452e-8249-1a0443f5d8b4.png">
   <img align="center" alt="Alberto-React.js" height="30" width="40" src="https://www.svgrepo.com/show/354259/react.svg">
 </div>
 <br>
