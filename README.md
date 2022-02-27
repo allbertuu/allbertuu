@@ -4,8 +4,8 @@
 
 ## 🔖 Sobre mim 
 Minha história entrando na programação é rápida, eu diria. E se resume em: ***paixão***. Comecei meus primeiros códigos em C# aos 16 anos, tendo minhas primeiras aulas de programação na vida no colegial. Me encantei.  
-Hoje, faço diversas coisas por curiosidade e com paixão. Atualmente, desenvolvo majoritariamente voltado à tecnologias de front-end.  
-_Outros..._
+> Hoje, quase tudo que aprendo advém de uma sede insaciavél de aprender. Atualmente, desenvolvo majoritariamente voltado à tecnologias de Front-end, mas no futuro pretendo me tornar Fullstack.  
+
 - 🎯 Objetivo profissional: me tornar relevante na área de tecnologia.
 - 😄 Pronomes: ele/dele
 - 🧩 Modus operandi: viciado em resolver problemas, me pego sempre buscando desafios novos ou antigos para resolver. 
