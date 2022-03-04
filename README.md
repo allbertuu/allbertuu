@@ -16,6 +16,7 @@ Minha história entrando na programação é rápida, eu diria. E se resume em: 
   <img align="center" alt="Alberto-HTML" height="30" width="40" src="https://www.svgrepo.com/show/349402/html5.svg">
   <img align="center" alt="Alberto-CSS" height="30" width="40" src="https://www.svgrepo.com/show/349330/css3.svg">
   <img align="center" alt="Alberto-JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg">
+  <img align="center" alt="Alberto-JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349540/typescript.svg">
   <img align="center" alt="Alberto-React.js" height="30" width="40" src="https://www.svgrepo.com/show/354259/react.svg">
 </div>
 <br>
