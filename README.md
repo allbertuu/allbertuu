@@ -82,7 +82,7 @@ O meu nível de experiência real com a linguagem sempre irá variar para cima, 
   
 </div>
   
-Do you arrive until here?  
+Do you arrived until here?  
 Take a candy 🍬 
 <!--   
 <h3>Informações (quase) irrelevantes 🌟</h3>
