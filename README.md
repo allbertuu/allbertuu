@@ -50,7 +50,7 @@ My story starting in the programming world is fast, I would say. And it boils do
 </div>
   
 **❗ Disclaimer**  
-<-- A minha experiência em uma linguagem neste painel <strong>não</strong> reflete o meu absoluto aprendizado, visto que só se aplica à <mark>projetos públicos</mark>.  
+<!-- A minha experiência em uma linguagem neste painel <strong>não</strong> reflete o meu absoluto aprendizado, visto que só se aplica à <mark>projetos públicos</mark>.  
 O meu nível de experiência real com a linguagem sempre irá variar para cima, nunca para baixo. -->
 
   ## 📧 Contact
