@@ -15,13 +15,13 @@ My story starting in the programming world is fast, I would say. And it boils do
 - Meu <a href="https://anilist.co/user/allbertuu/">AniList</a>
 - 🎂 Idade: 19 anos -->
 
-- 🎯 Professional goal: to become really relevant in the area of technology, because that's what I love: always growing up.
+- 🎯 Professional goal: to become really relevant in the area of technology, because that's what I love: always improve myself.
 - 😄 Pronouns: he/him
-<!-- - 🧩 Modus operandi: viciado em resolver problemas, me pego sempre buscando desafios novos ou antigos para resolver.  -->
+- 🧩 Modus operandi: I love resolve challenges that can be useful to people, either old or new problems. 
 - My <a href="https://anilist.co/user/allbertuu/">AniList</a>
 - 🎂 Age: 19 years old
 
-## 🚀 Expert:
+## 🚀 Main skills:
 <div>
   <img align="center" alt="Alberto-HTML" height="30" width="40" src="https://www.svgrepo.com/show/349402/html5.svg">
   <img align="center" alt="Alberto-CSS" height="30" width="40" src="https://www.svgrepo.com/show/349330/css3.svg">
@@ -30,7 +30,7 @@ My story starting in the programming world is fast, I would say. And it boils do
 </div>
 <br>
 
-## 🚀 Skills:
+## 🚀 Another skills:
 <div>
   <img align="center" alt="Alberto-Typescript" height="30" width="40" src="https://www.svgrepo.com/show/349540/typescript.svg">
   <img align="center" alt="Alberto-TailwindCSS" height="30" width="40" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
@@ -50,8 +50,8 @@ My story starting in the programming world is fast, I would say. And it boils do
 </div>
   
 **❗ Disclaimer**  
-A minha experiência em uma linguagem neste painel <strong>não</strong> reflete o meu absoluto aprendizado, visto que só se aplica à <mark>projetos públicos</mark>.  
-O meu nível de experiência real com a linguagem sempre irá variar para cima, nunca para baixo.
+<-- A minha experiência em uma linguagem neste painel <strong>não</strong> reflete o meu absoluto aprendizado, visto que só se aplica à <mark>projetos públicos</mark>.  
+O meu nível de experiência real com a linguagem sempre irá variar para cima, nunca para baixo. -->
 
   ## 📧 Contact
   <div>
