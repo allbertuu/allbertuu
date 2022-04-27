@@ -1,6 +1,6 @@
 # Hi! I'm called Alberto. Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="left" alt="pic" height="38" style="border-radius:50px;" src="https://c.tenor.com/JUPt0-Fm0AIAAAAi/baka-neko.gif?width=676&height=676">
 
-[![banner](./meu-banner.png)](https://github.com/allbertuu)
+[![banner](./meu_banner.png)](https://github.com/allbertuu)
 
 ## 🔖 About me
 My story starting in the programming world is fast, I would say. And it boils down to: ***passion***. I started my first codes in C# programming language at my 16, and having my first classes about programming in the middle school. I loved it.
