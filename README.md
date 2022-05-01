@@ -15,6 +15,7 @@ My story starting in the programming world is fast, I would say. And it boils do
 - Meu <a href="https://anilist.co/user/allbertuu/">AniList</a>
 - 🎂 Idade: 19 anos -->
 
+- 🔥 I'm frontend developer
 - 🎯 Professional goal: to become really relevant in the area of technology, because that's what I love: always improve myself.
 - 😄 Pronouns: he/him
 - 🧩 Modus operandi: I love resolve challenges that can be useful to people, either old or new problems. 
@@ -23,18 +24,19 @@ My story starting in the programming world is fast, I would say. And it boils do
 
 ## 🚀 Main skills:
 <div>
-  <img align="center" alt="Alberto-HTML" height="30" width="40" src="https://www.svgrepo.com/show/349402/html5.svg">
-  <img align="center" alt="Alberto-CSS" height="30" width="40" src="https://www.svgrepo.com/show/349330/css3.svg">
-  <img align="center" alt="Alberto-JavaScript" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg">
-  <img align="center" alt="Alberto-React.js" height="30" width="40" src="https://www.svgrepo.com/show/354259/react.svg">
+  <img align="center" alt="JavaScript badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="React.js badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Sass badge" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
 <br>
 
-## 🚀 Another skills:
+## 🚀 Skills:
 <div>
-  <img align="center" alt="Alberto-Typescript" height="30" width="40" src="https://www.svgrepo.com/show/349540/typescript.svg">
-  <img align="center" alt="Alberto-TailwindCSS" height="30" width="40" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
-  <img align="center" alt="Alberto-Sass" height="30" width="40" src="https://www.svgrepo.com/show/354310/sass.svg">
+  <img align="center" alt="Node.js badge" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="Typescript badge" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="TailwindCSS badge" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img align="center" alt="HTML badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 <br>
 
