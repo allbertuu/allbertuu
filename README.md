@@ -3,8 +3,8 @@
 [![banner](./banner.png)](https://github.com/allbertuu)
 
 ## 🔖 About me
-My story starting in the programming world is fast, I would say. And it boils down to: ***passion***. I started my first codes in C# programming language at my 16, and having my first classes about programming in the middle school. I loved it.
-> Today, almost all that I learn come of a lot of love in learning. Currently, I develop in the most on frontend techs, but in a near future I pretend to become a fullstack developer.
+My story starting in the programming world is fast, I would say. And it boils down to: ***passion***. I started my first C# programming language codes at 16 and had my first classes about programming in middle school. I loved it.
+> Today, almost all that I learn comes from a lot of love of learning. Currently, I develop the most on frontend techs, but in a near future, I pretend to become a full-stack developer.
 
 <!-- Minha história entrando na programação é rápida, eu diria. E se resume em: ***paixão***. Comecei meus primeiros códigos em C# aos 16 anos, tendo minhas primeiras aulas de programação na vida no colegial. Me encantei.  
 > Hoje, quase tudo que aprendo advém de uma sede insaciavél de aprender. Atualmente, desenvolvo majoritariamente voltado à tecnologias de Front-end, mas no futuro pretendo me tornar Fullstack.   -->
@@ -15,10 +15,10 @@ My story starting in the programming world is fast, I would say. And it boils do
 - Meu <a href="https://anilist.co/user/allbertuu/">AniList</a>
 - 🎂 Idade: 19 anos -->
 
-- 🔥 I'm frontend developer
-- 🎯 Professional goal: to become really relevant in the area of technology, because that's what I love: always improve myself.
+- 🔥 I'm a frontend developer
+- 🎯 Professional goal: to become relevant in the area of technology, because that's what I love: always improving myself.
 - 😄 Pronouns: he/him
-- 🧩 Modus operandi: I love resolve challenges that can be useful to people, either old or new problems. 
+- 🧩 Modus operandi: I love to resolve challenges that can be useful to people, either old or new problems. 
 - My <a href="https://anilist.co/user/allbertuu/">AniList</a>
 - 🎂 Age: 19 years old
 
@@ -52,10 +52,10 @@ My story starting in the programming world is fast, I would say. And it boils do
 </div>
   
 **❗ Disclaimer**  
-<!-- A minha experiência em uma linguagem neste painel <strong>não</strong> reflete o meu absoluto aprendizado, visto que só se aplica à <mark>projetos públicos</mark>.  
-O meu nível de experiência real com a linguagem sempre irá variar para cima, nunca para baixo. -->
+My experience with a language in this panel <strong>not</strong> reflects my absolute learning, as it only applies to <mark>my public projects</mark>.
+My level of actual language experience will always range up, never down.
 
-  ## 📧 Contact
+  ## 📧 Contact me
   <div>
    <a href ="mailto:albertovinicius3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/albertov-albuquerque/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -84,10 +84,14 @@ O meu nível de experiência real com a linguagem sempre irá variar para cima, 
   
 </div>
   
-Do you arrived until here?  
-Take a candy 🍬 
+Did you arrive here?
+Take a candy 🍬
+<h3>(Almost) irrelevant informations 🌟</h3>
+  1. My favorite animes are: Fullmetal Alchemist and Hunter X Hunter.<br>
+  2. I love to exercising early in the morning<br>
+  3. I plan, and will, travel the world 🌎<br>
 <!--   
 <h3>Informações (quase) irrelevantes 🌟</h3>
   1. Meus animes favoritos são: Fullmetal Alchemist e Hunter X Hunter.<br>
-  2. Sou viciado em praticar exercício pela manhã cedinho (sério, bom demais)<br>
+  2. Sou viciado em praticar exercício de manhã cedo<br>
   3. Planejo, e vou, viajar o mundo 🌎<br> -->
