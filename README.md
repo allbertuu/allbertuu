@@ -31,6 +31,7 @@ My story starting in the programming world is fast, I would say. And it boils do
   <img align="center" alt="TailwindCSS badge" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" alt="CSS badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="HTML badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Firebase badge" src="https://img.shields.io/badge/Firebase-FFF?style=for-the-badge&logo=Firebase">
 </div>
 <br>
 
