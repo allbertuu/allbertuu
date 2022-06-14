@@ -4,6 +4,8 @@
 
 <h4 align="center"><a href ="https://portfolio-allbertuu.vercel.app/">Click me to access my portfolio website ❤</a></h4>
 
+#### Mudar para português: <kbd>[<img title="Português" alt="Português" src="../../br.jpg" width="22">](../../readme.pt.md)</kbd>
+
 ## 🔖 About me
 My story starting in the programming world is fast, I would say. And it boils down to: ***passion***. I started my first C# programming language codes at 16 and had my first classes about programming in middle school. I loved it.
 > Today, almost all that I learn comes from a lot of love of learning. Currently, I develop the most on frontend techs, but in a near future, I pretend to become a full-stack developer.
