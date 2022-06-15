@@ -29,7 +29,7 @@ Minha história entrando na programação é rápida, eu diria. E se resume em: 
 </div>
 <br>
 
-## 🚀 Outros habilidades:
+## 🚀 Outras habilidades:
 <div>
   <img align="center" alt="Node.js badge" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Firebase badge" src="https://img.shields.io/badge/Firebase-FFF?style=for-the-badge&logo=Firebase">
