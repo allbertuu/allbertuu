@@ -1,3 +1,5 @@
+> “O que eu ouço, eu esqueço. O que eu vejo, eu lembro. O que eu faço, eu entendo” – *Confúcio*
+
 # Olá! Eu me chamo Alberto. Prazer em conhecer você! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> <img align="left" alt="pic" height="38" width="38" style="margin-right: 10px" src="https://c.tenor.com/JUPt0-Fm0AIAAAAi/baka-neko.gif?width=676&height=676">
 
 [![banner](./banner.png)](https://github.com/allbertuu)
