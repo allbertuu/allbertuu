@@ -11,7 +11,7 @@
 ## 🔖 About me
 My story in the programming world starts when I was 16. I started with my first programming language in the middle school, C#. I loved how big or complex problems may be easily solved with softwares built by myself. I really got into that.
 
-So I decided to develop the most on frontend techs, focus on React and its ecosystem. 
+So I decided to develop the most on frontend techs, focus on React and its ecosystem - NextJS, Redux, Styled-components, hooks, MaterialUI and other ReactJS and CSS libraries. 
 
 - 🔥 Frontend React Developer and Mobile Developer
 - 🎯 Professional goal: be relevant in the technology area, as well as being able to manage large teams. I intend to master JavaScript with excellence, and be a reference for other developers.
