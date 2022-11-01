@@ -9,46 +9,43 @@
 #### Switch to English: <kbd>[<img title="English" alt="English" src="../../blob/main/eua.png" width="22">](../../blob/main/README.md)</kbd>
 
 ## 🔖 Sobre mim
-Minha história entrando na programação é rápida, eu diria. E se resume em: ***paixão***. Comecei meus primeiros códigos em C# aos 16 anos, tendo minhas primeiras aulas de programação na vida no colegial. Me apaixonei.  
-> Hoje, quase tudo que aprendo advém de uma sede insaciavél de aprender. Atualmente, desenvolvo majoritariamente voltado à tecnologias de Front-end, mas em um futuro não tão distante serei Fullstack.
+Minha história no mundo da programação começa quando eu tinha 16 anos. Eu comecei com minha primeira linguagem de programação no ensino médio, C#. Eu amei como problemas grandes e complexos poderiam ser resolvidos com softwares construídos por mim mesmo. Eu realmente me interessei demais nisso.
 
-- 🔥 Desenvolvedor Frontend jr
-- 🎯 Objetivo profissional: ser relevante na área de tecnologia, assim como ser capaz de gerenciar grandes equipes, dominar com excelência o JavaScript, e ser referência para outros desenvolvedores.
-- 😄 Pronomes: ele/dele
+Então eu decidi desenvolver código usando em maioria tecnologias Frontend, focado em React e seu ecossistema - NextJS, Redux, Styled-components, hooks, MaterialUI e outras bibliotecas ReactJS e CSS.
+
+- 🔥 Desenvolvedor Frontend React e Desenvolvedor Mobile
+- 🎯 Objetivo profissional: ser relevante na área de tecnologia, assim como ser capaz de gerenciar grandes equipes. Pretendo dominar com excelência o JavaScript, e ser referência para outros desenvolvedores.
 - 🧩 Modus operandi: viciado em resolver problemas, me pego sempre buscando desafios novos ou antigos para resolver. 
 - Meu <a href="https://anilist.co/user/allbertuu/">AniList</a>
 - 🎂 Idade: 19 anos
 
-## 🚀 Principais habilidades:
+## 🚀 Habilidades principais:
 <div>
   <img align="center" alt="React.js badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="React Native badge" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Node.js badge" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="Styled-components badge" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img align="center" alt="Sass badge" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img align="center" alt="TailwindCSS badge" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img align="center" alt="JavaScript badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Typescript badge" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="CSS badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="HTML badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Styled-components badge" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 </div>
 <br>
 
 ## 🚀 Outras habilidades:
 <div>
+  <img align="center" alt="Node.js badge" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="PostgreSQL badge" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="Firebase badge" src="https://img.shields.io/badge/Firebase-FFF?style=for-the-badge&logo=Firebase">
+  <img align="center" alt="CSS badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="HTML badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Sass badge" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img align="center" alt="TailwindCSS badge" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img align="center" alt="JavaScript badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 <br>
 
-## 🔄 GitHub stats
+## 🔄 Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/allbertuu">
    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=allbertuu&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allbertuu&layout=compact&langs_count=7&theme=nord"/>
-   
-   ![Snake animation](https://github.com/allbertuu/allbertuu/blob/output/github-contribution-grid-snake.svg)
-  
   </a>
 </div>
   
@@ -68,26 +65,14 @@ Meu nível atual em uma linguagem sempre irá variar para cima, nunca para baixo
  
   ## 💠 Espaço de trabalho
 
-  <div>
-    <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%230077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  </div>
+  **IDE:**
+  <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%230077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white">  
+  **Host preferido:**
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">  
+  **Sistema operacional (SO):**
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">  
   
-  #### Sistema operacional (SO):
-  <div>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  </div>
-  
-<div>
-
-  ##
-  
-</div>
-  
-Chegou até aqui?
-Toma um doce 🍬
+<hr />
 
 <h3>Informações (quase) irrelevantes 🌟</h3>
   1. Meus animes favoritos são: Fullmetal Alchemist e Hunter X Hunter.<br>
