@@ -11,9 +11,9 @@
 ## 🔖 Sobre mim
 Minha história no mundo da programação começa quando eu tinha 16 anos. Eu comecei com minha primeira linguagem de programação no ensino médio, C#. Eu amei como problemas grandes e complexos poderiam ser resolvidos com softwares construídos por mim mesmo. Eu realmente me interessei demais nisso.
 
-Então eu decidi desenvolver código usando em maioria tecnologias Frontend, focado em React e seu ecossistema - NextJS, Redux, Styled-components, hooks, MaterialUI e outras bibliotecas ReactJS e CSS.
+Então eu decidi desenvolver código usando, na maior parte do tempo, tecnologias Frontend, focando em React e seu ecossistema - React Native, NextJS, Redux, Styled-components, hooks, MaterialUI e outras bibliotecas ReactJS e CSS.
 
-- 🔥 Desenvolvedor Frontend React e Desenvolvedor Mobile
+- 🔥 Desenvolvedor Frontend React e Desenvolvedor Mobile há 10 meses
 - 🎯 Objetivo profissional: ser relevante na área de tecnologia, assim como ser capaz de gerenciar grandes equipes. Pretendo dominar com excelência o JavaScript, e ser referência para outros desenvolvedores.
 - 🧩 Modus operandi: viciado em resolver problemas, me pego sempre buscando desafios novos ou antigos para resolver. 
 - Meu <a href="https://anilist.co/user/allbertuu/">AniList</a>
@@ -24,7 +24,7 @@ Então eu decidi desenvolver código usando em maioria tecnologias Frontend, foc
   <img align="center" alt="React.js badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="React Native badge" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Typescript badge" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="Styled-components badge" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img align="center" alt="TailwindCSS badge" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
 <br>
 
@@ -36,8 +36,8 @@ Então eu decidi desenvolver código usando em maioria tecnologias Frontend, foc
   <img align="center" alt="CSS badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="HTML badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Sass badge" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img align="center" alt="TailwindCSS badge" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" alt="JavaScript badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Styled-components badge" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 </div>
 <br>
 
