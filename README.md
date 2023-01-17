@@ -11,9 +11,9 @@
 ## 🔖 About me
 My story in the programming world starts when I was 16. I started with my first programming language in the middle school, C#. I loved how big or complex problems may be easily solved with softwares built by myself. I really got into that.
 
-So I decided to develop the most on frontend techs, focus on React and its ecosystem - NextJS, Redux, Styled-components, hooks, MaterialUI and other ReactJS and CSS libraries. 
+So I decided to develop the most on frontend techs, focusing on React and its ecosystem - React Native, NextJS, Redux, Styled-components, hooks, MaterialUI and other ReactJS and CSS libraries. 
 
-- 🔥 Frontend React Developer and Mobile Developer
+- 🔥 Frontend React Developer and Mobile Developer for about 10 months
 - 🎯 Professional goal: be relevant in the technology area, as well as being able to manage large teams. I intend to master JavaScript with excellence, and be a reference for other developers.
 - 🧩 Modus operandi: I love to resolve challenges that can be useful to people, either old or new problems. 
 - My <a href="https://anilist.co/user/allbertuu/">AniList</a>
@@ -24,7 +24,7 @@ So I decided to develop the most on frontend techs, focus on React and its ecosy
   <img align="center" alt="React.js badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="React Native badge" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Typescript badge" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="Styled-components badge" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img align="center" alt="TailwindCSS badge" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
 <br>
 
@@ -36,8 +36,8 @@ So I decided to develop the most on frontend techs, focus on React and its ecosy
   <img align="center" alt="CSS badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="HTML badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Sass badge" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img align="center" alt="TailwindCSS badge" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" alt="JavaScript badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Styled-components badge" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 </div>
 <br>
 
