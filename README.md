@@ -1,4 +1,5 @@
-#### Mudar para português: <kbd>[<img title="Português" alt="Português" src="../../blob/main/br.jpg" width="22">](../../blob/main/readme.pt.md)</kbd>
+<!-- TODO: Editar o arquivo traduzido adequadamente -->
+<!-- #### Mudar para português: <kbd>[<img title="Português" alt="Português" src="../../blob/main/br.jpg" width="22">](../../blob/main/readme.pt.md)</kbd> -->
 
 > “What I hear, I forget. What I see, I remember. What I do, I understand” – *Confúcio*
 
