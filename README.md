@@ -35,8 +35,8 @@ So I decided to develop the most on frontend techs, focusing on React and its ec
   </div>
   
 **Disclaimer**  
-My experience with a language in this panel <strong>not</strong> reflects my absolute learning, as it only applies to <mark>my public projects</mark>.
-My level of actual language experience will always range up, never down.
+My experience with a programming language in this panel <strong>not</strong> reflects my whole knowledge, once it only applies to <mark>my public projects</mark>.
+My current skills and expertise level will always range up, never down.
 </details>
 
 ### 📧 Contact me
