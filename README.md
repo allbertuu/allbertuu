@@ -17,7 +17,7 @@ So I decided to develop the most on frontend techs, focusing on React and its ec
 - 🎯 Professional goal: be relevant in the technology area, as well as being able to manage large teams. I intend to master JavaScript with excellence, and be a reference for other developers.
 - 🧩 Modus operandi: I love to resolve challenges that can be useful to people, either old or new problems. 
 - My <a href="https://anilist.co/user/allbertuu/">AniList</a>
-- 🎂 Age: 19 years old
+- 🎂 Age: 20 years old
 
 ### 🚀 My skills:
 
