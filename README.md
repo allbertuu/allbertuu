@@ -13,7 +13,7 @@ My story in the programming world starts when I was 16. I started with my first 
 So I decided to develop the most on frontend techs, focusing on React and its ecosystem - React Native, NextJS, Redux, Styled-components, hooks, MaterialUI and other ReactJS and CSS libraries. 
 </details>
   
-- 🔥 I'm a Frontend Developer and Mobile Developer
+- 🔥 I'm a Frontend Developer
 - 🎯 Professional goal: be relevant in the technology area, as well as being able to manage large teams. I intend to master JavaScript with excellence, and be a reference for other developers.
 - 🧩 Modus operandi: I love to resolve challenges that can be useful to people, either old or new problems. 
 - My <a href="https://anilist.co/user/allbertuu/">AniList</a>
