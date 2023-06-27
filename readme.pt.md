@@ -13,7 +13,7 @@ Minha história no mundo da programação começa quando eu tinha 16 anos. Eu co
 
 Então eu decidi desenvolver código usando, na maior parte do tempo, tecnologias Frontend, focando em React e seu ecossistema - React Native, NextJS, Redux, Styled-components, hooks, MaterialUI e outras bibliotecas ReactJS e CSS.
 
-- 🔥 Desenvolvedor Frontend React e Desenvolvedor Mobile há 10 meses
+- 🔥 Desenvolvedor Frontend
 - 🎯 Objetivo profissional: ser relevante na área de tecnologia, assim como ser capaz de gerenciar grandes equipes. Pretendo dominar com excelência o JavaScript, e ser referência para outros desenvolvedores.
 - 🧩 Modus operandi: viciado em resolver problemas, me pego sempre buscando desafios novos ou antigos para resolver. 
 - Meu <a href="https://anilist.co/user/allbertuu/">AniList</a>
