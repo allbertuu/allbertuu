@@ -3,19 +3,8 @@
 
 > “What I hear, I forget. What I see, I remember. What I do, I understand” – *Confúcio*
 
-# Hello! Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> <img align="left" alt="pic" height="38" width="38" style="margin-right: 10px" src="https://c.tenor.com/JUPt0-Fm0AIAAAAi/baka-neko.gif?width=676&height=676">
+## Hello! Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> <img align="left" alt="pic" height="38" width="38" style="margin-right: 10px" src="https://c.tenor.com/JUPt0-Fm0AIAAAAi/baka-neko.gif?width=676&height=676">
 
-<details>
-<summary><strong>🔖 Short intro</strong></summary>
-
-My story in the programming world starts when I was 16. I started with my first programming language in the middle school, C#. I loved how big or complex problems may be easily solved with softwares built by myself. I really got into that.
-
-So I decided to develop the most on frontend techs, focusing on React and its ecosystem - React Native, NextJS, Redux, Styled-components, hooks, MaterialUI and other ReactJS and CSS libraries. 
-</details>
-  
-- 🔥 I'm a Frontend Developer
-- 🎯 Professional goal: be relevant in the technology area, as well as being able to manage large teams. I intend to master JavaScript with excellence, and be a reference for other developers.
-- 🧩 Modus operandi: I love to resolve challenges that can be useful to people, either old or new problems. 
 - My <a href="https://anilist.co/user/allbertuu/">AniList</a>
 - 🎂 Age: 20 years old
 
