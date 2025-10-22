@@ -5,9 +5,9 @@
 
 ## Hello! Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> <img align="left" alt="pic" height="38" width="38" style="margin-right: 10px" src="https://c.tenor.com/JUPt0-Fm0AIAAAAi/baka-neko.gif?width=676&height=676">
 
-- 🥇 I'm a experienced Frontend Developer (React.js)
-- My <a href="https://anilist.co/user/allbertuu/">AniList</a>
-- 🎂 Age: 21 years old
+I'm an experienced Front-End Developer (React.js/Next.js) with 2 years of experience. I was a Frontend team leader at SouJunior, and I'm still contributing to open-source projects.
+
+I'm organized, proactive, and a great problem-solver.
 
 ### 🚀 My skills:
 
@@ -16,7 +16,7 @@
 <br>
 
 <details>
-<summary><strong>🔄 GitHub stats</strong></summary>
+<summary><strong>🔄 My GitHub stats</strong></summary>
   <div align="center">
     <a href="https://github.com/allbertuu">
      <img height="140em" src="https://github-readme-stats.vercel.app/api?username=allbertuu&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
@@ -25,7 +25,7 @@
   </div>
   
 **Disclaimer**  
-My experience with a programming language in this panel <strong>not</strong> reflects my whole knowledge, once it only applies to <mark>my public projects</mark>.
+My experience with a programming language in this panel <strong>not</strong> reflects my whole knowledge, as it only applies to <mark>my public projects</mark>.
 My current skills and expertise level will always range up, never down.
 </details>
 
@@ -35,29 +35,18 @@ My current skills and expertise level will always range up, never down.
    <a href="https://www.linkedin.com/in/albertov-albuquerque/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
-<details>
-  <summary><strong>Other links</strong></summary>
-   <a href="https://instagram.com/albert.vny" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://open.spotify.com/user/f59bk8mb2ucak8liirg2oqx0p?si=EVsOUON7S-SzOVMnFhvtpA&utm_source=whatsapp&dl_branch=1"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-</details>
-
 <hr />
  
-### ❤ If you wanna know more about me :)
-<details>
-  <summary><strong>My Workspace</strong></summary>
-
+### More about me :D
+  <strong>🌐 My Workspace</strong><br>
   **Code editor:**
   <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%230077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white">  
-  **Prefered host:**
+  **Preferred host:**
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">  
   **Operating system (OS):**
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">  
-</details>
   
-<details>
-  <summary><strong>(Almost) irrelevant informations</strong></summary>
+  <strong>😊 (Almost) irrelevant informations</strong>
   1. My favorite animes are: <strong>Fullmetal Alchemist</strong> and <strong>Hunter X Hunter</strong>.<br>
-  2. I love to exercising early in the morning<br>
+  2. I love exercising early in the morning<br>
   3. I plan, and will, <strong>travel the world</strong>. 🌎<br>
-</details>
