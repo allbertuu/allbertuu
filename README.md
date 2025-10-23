@@ -3,7 +3,7 @@
 
 > “What I hear, I forget. What I see, I remember. What I do, I understand” – *Confúcio*
 
-## Hello! Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> <img align="left" alt="pic" height="38" width="38" style="margin-right: 10px" src="https://c.tenor.com/JUPt0-Fm0AIAAAAi/baka-neko.gif?width=676&height=676">
+## Hello! Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 I'm an experienced Front-End Developer (React.js/Next.js) with 2 years of experience. I was a Frontend team leader at SouJunior, and I'm still contributing to open-source projects.
 
